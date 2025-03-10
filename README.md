@@ -1,16 +1,25 @@
-## Hi there 👋
+# Егор Гаврилов
 
-<!--
-**oldzoomer-gh/oldzoomer-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Фидошник, Java-разработчик
 
-Here are some ideas to get you started:
+### Мой основной стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring, JPA (Spring Data JPA), SQL
+- Linux, Docker
+- Git, GitHub
+
+### Сейчас я активно изучаю
+
+- Микросервисы, Kafka
+- Redis
+- MinIO
+- Kubernetes
+- Стандарты FTSC (Фидонета)
+
+### Ссылки
+
+- [Habr](https://habr.com/ru/users/oldzoomer/)
+
+Также я являюсь самым молодым сисопом
+в Фидонете на сегодняшний день - 2:5015/519.
